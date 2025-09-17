@@ -1,2 +1,2 @@
 # MichikAtsuCV
-This is school project :)
+This is my school project :)
